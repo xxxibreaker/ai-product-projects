@@ -1,4 +1,4 @@
-# AI-Product-Projects
+# ai-product-projects
 
 设计背景出身的产品经理，正在系统性转型 AI 方向。通过独立构建多个 AI Agent 项目，实践从需求定义、Agent 架构设计、Prompt 工程到效果评估的全流程。
 
